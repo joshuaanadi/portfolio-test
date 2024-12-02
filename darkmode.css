@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+
+a{
+    color: black;
+}
+nav{
+   
+    background-color: white;
+}
+.header-text {
+    color: black;   
+}
+
+.calltoaction{
+    color: white;
+    background-color: rgb(0, 47, 255);
+}
+
+h1{
+    color: black;
+}
