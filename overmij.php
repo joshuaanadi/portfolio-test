@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="main.css">
-</head>
-<body class="aboutme-page">
-    <div class="content">
-        <nav class="aboutnav">
-            <ul>
-              <li><a href="index.html">Home</a>  </li>
-               <li><a href="overmij.html">Over mij</a> </li> 
-               <li><a href="project.html">Projecten</a> </li> 
-               <li><a href="contact.html">Contact</a> </li>
-               <li><a href="interview.html">Interview</a> </li>
-            </ul>
-         </nav>
-             <div class="about-content">
+<?php require "header.php"; ?>
+<div class="about-content">
                 <h1>
                     About me
                 </h1>

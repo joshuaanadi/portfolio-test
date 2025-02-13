@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title> 
-  <link rel="stylesheet" href="main.css">
-  <link id="colorlink" rel="stylesheet" href="darkmode.css">
-</head>
-
-<body class="homepage">
-  <nav>
-    <ul>
-      <li><a href="index.html">Home</a> </li>
-      <li><a href="overmij.html">Over mij</a> </li>
-      <li><a href="project.html">Projecten</a> </li>
-      <li><a href="contact.html">Contact</a> </li>
-      <li><a href="interview.html">Interview</a> </li>
-    </ul>
-  </nav>
+<?php require "header.php"; ?>
   <div class="header-text"> <img src="images/WhatsApp Image 2024-11-05 at 08.38.57_bdce6e01.jpg" width="300px "
       height="300px" alt="a profile picture" class="profile-pic">
     <h1>Hi,I'm Joshua-web developer</h1>
@@ -50,6 +30,3 @@
         }
     }
 </script>
-</body>
-
-</html>
